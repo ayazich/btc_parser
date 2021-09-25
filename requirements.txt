@@ -1,0 +1,2 @@
+requests~=2.24.0
+python-binance==1.0.14
